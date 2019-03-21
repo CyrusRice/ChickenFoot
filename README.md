@@ -1,1 +1,2 @@
 This is a program stimulating 2 players playing the domino game "chicken foot". The makefile is included with the executable named project2. 
+The bone class represents an individual domino and thus has two ints for each side. The chickenyard class represents the dominoes that can be drawn from and thus contains a dynamic array of bones. The field class represents the dominoes that have been played. The player class represents the players hand. The game class does all the simulation of the game.
